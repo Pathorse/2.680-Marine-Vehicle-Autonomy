@@ -1,0 +1,3 @@
+[submodule "moos-ivp-pathorse"]
+	path = moos-ivp-pathorse
+	url = https://github.com/Pathorse/moos-ivp-pathorse.git
